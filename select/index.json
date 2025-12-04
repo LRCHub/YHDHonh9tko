@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "One Last Time",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2025-12-04T06:00:19.021723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/01_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_One_Last_Time_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Last Time, Like Hypothermia",
+      "artist": "Royal Coda",
+      "has_synced": false,
+      "path": "select/03_One_Last_Time,_Like_Hypothermia_Royal_Coda.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/04_One_Last_Time_Moby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_One_Last_Time_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scene Seven: II. One Last Time",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/06_Scene_Seven__II._One_Last_Time_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/07_One_Last_Time_HIM.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/08_One_Last_Time_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Last Time (Live)",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/09_One_Last_Time_(Live)_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Agnes",
+      "has_synced": true,
+      "path": "select/10_One_Last_Time_Agnes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_One_Last_Time_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Last Time (Album Version)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_One_Last_Time_(Album_Version)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Last Time (Attends-Moi)",
+      "artist": "Ariana Grande feat. Kendji Girac",
+      "has_synced": true,
+      "path": "select/13_One_Last_Time_(Attends-Moi)_Ariana_Grande_feat._Kendji_Girac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Last Time (Attends-Moi) (Feat. Kendji Girac)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_One_Last_Time_(Attends-Moi)_(Feat._Kendji_Girac)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Last Time",
+      "artist": "Ariana Grande feat. Fedez",
+      "has_synced": true,
+      "path": "select/15_One_Last_Time_Ariana_Grande_feat._Fedez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_One_Last_Time_Ariana_Grande.txt"
+    }
+  ]
+}
